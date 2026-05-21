@@ -8,11 +8,14 @@ Projeto acadêmico desenvolvido para a disciplina de Modelagem Banco de Dados, c
 
 A **Carbon Blindados** é amplamente reconhecida como a maior empresa de blindagem de veículos civis do mundo, consolidando sua liderança por meio de tecnologia de ponta, parcerias estratégicas com montadoras e um rigoroso padrão de qualidade. A empresa se destaca pelo desenvolvimento de soluções inovadoras em segurança automotiva, oferecendo proteção de alto nível sem comprometer o desempenho, o conforto e o design original dos veículos.
 
+
 ---
 
 ## 🎯 Missão
 
-Elevar o patamar de qualidade de produtos e serviços no segmento de blindagem automotiva civil, garantindo a proteção de vidas, sonhos e conquistas através de segurança máxima, inovação e performance. 
+Elevar o patamar de qualidade de produtos e serviços no segmento de blindagem atomotiva civil, garantindo a proteção de vidas, sonhos e conquistas através de segurança máxima, novação e performance.
+
+
 ---
 
 ## 👁️ Visão
